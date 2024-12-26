@@ -1,25 +1,3 @@
-.welimg {
-  background-image: url('atxcap.jpg');
-  background-color: rgba(0, 0, 0, 0.5);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%; /* Use percentage to avoid viewport unit issues */
-  min-height: 100vh; /* Ensure it covers the viewport height */
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box; /* Prevent width issues with padding/margins */
-  display: flex; /* Enables flexbox for inner content */
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
-}
-
-/* Disable fixed background attachment for mobile devices */
-@media only screen and (max-width: 1024px) {
-  .welimg {
-    background-attachment: scroll; /* Adjust for mobile compatibility */
-  }
-}
 
 .header {
   overflow: hidden;
