@@ -52,10 +52,6 @@
     font-weight: 100;
     font-family: HelveticaNeue, serif;
     text-align: center;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex
-;
 }
 
 #myTopnav.topnav {
