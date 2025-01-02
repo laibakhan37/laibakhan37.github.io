@@ -120,62 +120,6 @@
 }
 
 
-@font-face {
-    font-family: 'Martin'; /*a name to be used later*/
-    src: url('/VTC-Martin-Regular.ttf') format('truetype');
-}
-
-@font-face {
-	   font-family: 'HelveticaNeue'; /*a name to be used later*/
-    src: url('/HelveticaNeue-BlackCond.otf') format('opentype');
-}
-
-@font-face {
-	   font-family: 'AcuminBold'; /*a name to be used later*/
-    src: url('/Acumin-BdPro.otf') format('opentype');
-}
-
-@font-face {
-	   font-family: 'AcuminReg'; /*a name to be used later*/
-    src: url('/Acumin-RPro.otf') format('opentype');
-}
-
-
-/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
-@media only screen and (max-device-width: 1366px) {
-  .parallax {
-    background-attachment: scroll;
-  }
-}
-
-.webtitle {
-    margin-top: 0px;
-    width: 100%;
-    height: 100%;
-    color: white;
-    font-size: 5em;
-    letter-spacing: 1px;
-    font-weight: 100;
-    font-family: HelveticaNeue, serif;
-    text-align: center;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
-    -webkit-box-sizing: border-box;
-            box-sizing: border-box;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-}
-
-
 a {
 color:#FFF;
 }
