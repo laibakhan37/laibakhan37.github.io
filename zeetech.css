@@ -3816,7 +3816,7 @@ width: 100px;
 	height: 135px;
 	border-radius: 100px;
 	background: #7a60ff;
-	background:  linear-gradient(to left, #7a60ff, #cd9ffa);
+	background:  linear-gradient(to left, #0781f1, #c5ddfa);
 	color: #ffffff;
 	font-size: 50px;
 	line-height: 135px;
@@ -3950,7 +3950,7 @@ width: 100px;
 }
 .testimonial {
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #0781f1, #c5ddfa);
 	padding:100px 0px;
 	position:relative;
 }
@@ -4063,14 +4063,14 @@ input {
 	border-radius: 2rem;
 	border: 0;
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #0781f1, #c5ddfa);
 	cursor:pointer;
 }
 .contact-info {
 	padding: 2rem 2rem 1rem;
 	border-radius: 8px;
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #0781f1, #c5ddfa);
 }
 .contact-item {
 	margin:23px 0px;
@@ -4084,7 +4084,7 @@ input {
 }
 .download {
 	background: #7a60ff;
-	background: linear-gradient(to left, #7a60ff, #cd9ffa);
+	background: linear-gradient(to left, #0781f1, #c5ddfa);
 	padding:100px 0px;
 	position:relative;
 }
