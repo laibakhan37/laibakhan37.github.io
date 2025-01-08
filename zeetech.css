@@ -3753,6 +3753,9 @@ width: 100px;
 	bottom: 0;
 	width: 100%;
 }
+img.svg-hero {
+width:100%;
+}
 .banner-text {
 	padding-right:80px;
 	margin:50px 0px 0px;
