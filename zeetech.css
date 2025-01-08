@@ -3756,6 +3756,12 @@ width: 100px;
 img.svg-hero {
 width:100%;
 }
+.img-fluid {
+    max-width: 125%;
+    height: auto;
+    width: 125%;
+    margin-left: -45px;
+}
 .banner-text {
 	padding-right:80px;
 	margin:50px 0px 0px;
