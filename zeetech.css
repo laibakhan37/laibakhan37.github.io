@@ -4055,6 +4055,9 @@ input {
 	line-height: 20px;
 	margin: 0;
 }
+.contact-item.media {
+	display:block;
+}
 .download {
 	background: #c5ddfa;
 	background: linear-gradient(to left, #0781f1, #c5ddfa);
@@ -4104,11 +4107,15 @@ input {
 	text-align: center;
 	padding: 10px 0;
 }
+    .col-lg-4 {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+
 .nav-scroll .navbar-collapse {
 	background: #fff !important;
-}
-#contact_form {
-	margin-bottom:20px;
 }
 .navbar .nav-item a {
     color: #000;
@@ -4197,9 +4204,6 @@ h3 {
 }
 .faq-content p {
 	font-size: 13px;
-}
-#contact_form {
-	margin-bottom:20px;
 }
 .contact-item {
 	font-size: 12px;
