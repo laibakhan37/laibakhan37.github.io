@@ -3652,6 +3652,10 @@ h6 {
 .black {
 	color:#000000;
 }
+.text-uppercase {
+    text-align: center;
+    font-size: 25px;
+}
 .navbar {
 	position: fixed;
 	right: 0;
