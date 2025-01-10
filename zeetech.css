@@ -4116,6 +4116,12 @@ input {
 	transform: scale(0.75) !important;
 	-webkit-transform: scale(0.75) !important;
 }
+.img-fluid {
+    max-width: 125%;
+    height: auto;
+    width: 100%;
+    margin-left: 0px;
+}
 .banner-text {
 	padding-right: 0px;
 	margin: 10px 0px 0px;
