@@ -4090,11 +4090,12 @@ input {
 	border-radius: 7px;
 }
 .footer-copy {
-	background: #ffffff;
 	color: #242424;
 	font-size: 13px;
 	text-align: center;
 	padding:15px 0px;
+	background: #c5ddfa;
+    	background: linear-gradient(to left, #0781f1, #c5ddfa);
 }
 .footer-copy p {
 	margin-bottom:0px;
