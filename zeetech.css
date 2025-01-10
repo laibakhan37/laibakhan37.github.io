@@ -4114,6 +4114,7 @@ input {
 }
 .footer-copy p {
 	margin-bottom:0px;
+	color:white;
 }
 @media all and (max-width:991px) {
 .navbar .navbar-collapse {
